@@ -1,4 +1,4 @@
-# Apply-PCA-to-Neural-Data
+# Apply PCA to Neural Data
 Project Overview
 This project explores the application of Principal Component Analysis (PCA) on neural electrophysiological data collected from a macaque monkey. The primary objective is to reduce the dimensionality of the high-dimensional neural data while preserving the most significant patterns of neural activity.
 
